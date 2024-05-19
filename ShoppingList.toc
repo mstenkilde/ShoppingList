@@ -1,0 +1,7 @@
+## Interface: 90005
+## Title: Shopping List!
+## Notes: Configurable shopping list, pops up when in rested zone
+## SavedVariables: ShoppingList
+## Author: Frankie boii
+## Version: 0.001
+ShoppingList.lua
